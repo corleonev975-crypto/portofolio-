@@ -1,6 +1,6 @@
 Lisensi MIT (MIT License)
 
-Hak Cipta © 2025 Asep (GUSTIAWANDEV)
+Hak Cipta © 2026 Hasbi (MAULANA)
 
 Izin diberikan secara cuma-cuma kepada siapa pun yang memperoleh salinan
 perangkat lunak ini dan file dokumentasi terkait (“Perangkat Lunak”), untuk
@@ -24,9 +24,9 @@ YANG BERHUBUNGAN DENGAN PERANGKAT LUNAK.
 
 Informasi Pembuat & Dukungan
 
-Creator: Asep Gustiawan
-Store: https://lynk.id/gustwandev
+Creator: Hasbi Maulana
+
 
 Follow dan dukung pembuat:
-TikTok: @gustiawan.dev
-Store Lynk: https://lynk.id/gustwandev
+TikTok:@xinnrorrr
+
